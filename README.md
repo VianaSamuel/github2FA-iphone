@@ -38,7 +38,7 @@ No exemplo, utilizaremos o escaneamento do código QR.
 
 <img src="assets/validacao.jpeg" alt="Validação" width="350">
 
-7 - **Inserir o código gerado no GitHub**.
+7 - **Inserir, no GitHub, o código gerado**.
 
 <img src="assets/verificar.jpeg" alt="Verificar" width="450">
 
