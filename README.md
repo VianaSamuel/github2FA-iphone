@@ -1,4 +1,4 @@
-# 2FA do GitHub 
+# Ativar 2FA do GitHub (iOS)
 
 Esse repositório tem como intuito ensinar aos usuários de iPhone uma forma fácil e ágil de configurar o [Two-Factor Authentication do GitHub](https://docs.github.com/pt/authentication/securing-your-account-with-two-factor-authentication-2fa).
 
